@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="teststring" label="TestString" language="en" table="x_265424_specialoc_test1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>teststring</element>
+            <help/>
+            <hint/>
+            <label>TestString</label>
+            <language>en</language>
+            <name>x_265424_specialoc_test1</name>
+            <plural>TestStrings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-09-27 14:56:21</sys_created_on>
+            <sys_id>a188b8a61bbaf010c811c991604bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TestString</sys_name>
+            <sys_package display_value="SpecialOccasionsTest" source="x_265424_specialoc">252834a61bbaf010c811c991604bcb2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SpecialOccasionsTest">252834a61bbaf010c811c991604bcb2d</sys_scope>
+            <sys_update_name>sys_documentation_x_265424_specialoc_test1_teststring_en</sys_update_name>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-09-27 14:56:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

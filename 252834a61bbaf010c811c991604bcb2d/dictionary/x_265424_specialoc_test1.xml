@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test1" max_length="40" name="x_265424_specialoc_test1" type="collection">
+        <element choice="1" label="ChoiceTest" max_length="40" name="choicetest" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Monday" value="Monday"/>
+                <element inactive_on_update="false" label="Tuesday" value="Tuesday"/>
+            </choice>
+        </element>
+        <element label="TestString" max_length="40" name="teststring" type="string"/>
+    </element>
+</database>
